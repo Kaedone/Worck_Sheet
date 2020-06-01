@@ -16,3 +16,4 @@ class Spreadsheet:
 
     def prepare_setColumnWidth(self, col, width):
         self.prepare_setColumnsWidth(col, col, width)
+#---
